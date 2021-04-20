@@ -74,7 +74,10 @@ html {
     text-decoration: none;
     display: inline-block;
     padding: 11px 16px;
+    margin-top: 15px;
     border: none;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 .btn:hover {

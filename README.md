@@ -29,12 +29,20 @@ Responsive là 1 kỹ thuật giúp cho website hiển thị và tương thích 
 
 Mục đích: Tối ưu trải nghiệm người dùng
 
-        - Hiển thị rõ ràng các thành phần (hình ảnh , nút bấm, cỡ chữ,...)
+    - Hiển thị rõ ràng các thành phần (hình ảnh , nút bấm, cỡ chữ,...)
 
-        - Ẩn/hiện các thành phần để phù hợp với kích thước màn hình. 
+    - Ẩn/hiện các thành phần để phù hợp với kích thước màn hình. 
 
 PC: >= 1024px
 
 Tablet: >= 740px && < 1024px
 
 Mobile: < 740px
+
+## Note: 
+
+  Kết nối project với device thật sử dụng NGROK
+
+  Link tải Ngrok: https://ngrok.com/download 
+  
+  Xem hướng dẫn sử dụng để biết cách cài đặt
