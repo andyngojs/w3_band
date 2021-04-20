@@ -22,3 +22,19 @@ Example Website: https://www.w3schools.com/w3css/tryw3css_templates_band.htm
   - kích thước
   - màu sắc
   - kiểu dáng (kiểu chữ, hình tròn, vuông,.....)
+
+## Responsive Website 
+
+Responsive là 1 kỹ thuật giúp cho website hiển thị và tương thích với nhiều kích thước màn hình khác nhau (mobile, tablet, PC,...)
+
+Mục đích: Tối ưu trải nghiệm người dùng
+
+        - Hiển thị rõ ràng các thành phần (hình ảnh , nút bấm, cỡ chữ,...)
+
+        - Ẩn/hiện các thành phần để phù hợp với kích thước màn hình. 
+
+PC: >= 1024px
+
+Tablet: >= 740px && < 1024px
+
+Mobile: < 740px
