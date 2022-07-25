@@ -1,12 +1,5 @@
 # HƯỚNG DẪN XÂY DỰNG GIAO DIỆN TRANG WEB SỬ DỤNG HTML/CSS
 
-Author: ANDY_NGO 
-
-Facebook: https://fb.com/100006806881094
-
-Group Fb: https://fb.com/groups/dobeeteam.community
-
-
 Example Website: https://www.w3schools.com/w3css/tryw3css_templates_band.htm
 
 
